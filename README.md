@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 🤖 **Applied AI & Software Engineer**
 
----
 
 ## 🧰 Tech Stack
 
@@ -34,14 +33,12 @@ Here are some ideas to get you started:
 * 🌐 ReactJS, Next.js, PostgreSQL, Supabase, Firebase, Redis, Git/GitHub
 * 🔌 APIs · Background jobs · AI pipelines
 
----
 
 ## 🔧 What I’m Building
 
 * 📝 Philonote.com
 * 🌍 AI solutions
 
----
 
 📫 Open to collaboration.
 
