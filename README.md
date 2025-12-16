@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hi, I’m Kenn
-
 🤖 **Applied AI & Software Engineer**
 
 
@@ -30,14 +28,14 @@ Here are some ideas to get you started:
 **Engineering**
 
 * ⚙️ TypeScript · Python
-* 🌐 ReactJS, Next.js, PostgreSQL, Supabase, Firebase, Redis, Git/GitHub
-* 🔌 APIs · Background jobs · AI pipelines
+* 🌐 ReactJS, Next.js, PostgreSQL, Supabase, Firebase, Redis, Headless CMS, Git/GitHub
+* 🔌 APIs · AI pipelines
 
 
 ## 🔧 What I’m Building
 
-* 📝 Philonote.com
-* 🌍 AI solutions
+* 📝[Philonote.com](Philonote "blogging platform")
+* 🌍AI solutions
 
 
 📫 Open to collaboration.
