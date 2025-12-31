@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ## 🔧 What I’m Building
 
-* 📝[Philonote.com](Philonote "blogging platform")
+* 📝[Philonote.com](www.philonote.com)
 * 🌍AI solutions
 
 
