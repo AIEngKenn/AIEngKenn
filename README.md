@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ## 🔧 What I’m Building
 
 * 📝[Philonote.com](https://www.philonote.com/)
-* 🌍AI solutions
+* Competitive Market Intelligence Solutions @ [WhyItMatters.AI](https://www.whyitmatters.ai/)
 
 
 📫 Open to collaboration.
