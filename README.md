@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ## 🔧 What I’m Building
 
-* 📝[Philonote.com](https://www.philonote.com/)
+* Blogging Platform 📝[Philonote.com](https://www.philonote.com/)
 * Competitive Market Intelligence Solutions @ [WhyItMatters.AI](https://www.whyitmatters.ai/)
 
 
